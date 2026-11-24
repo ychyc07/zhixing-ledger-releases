@@ -8,6 +8,8 @@ GitHub 自动附带的 Source code 压缩包只包含本仓库里的说明，不
 
 ## 下载
 
+安装包文件名是 `zhixing-ledger-setup-<版本>-win-x64.exe`。GitHub 会去掉附件名里的中文，所以不用中文文件名。
+
 最新的公开版本：
 
 https://github.com/ychyc07/zhixing-ledger-releases/releases/latest
